@@ -1,0 +1,27 @@
+html{
+  scroll-behavior: smooth;
+}
+body{
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background-color: whitesmoke
+  
+  
+    
+}
+main{
+  padding-top: 5rem;
+}
+
+footer{
+    font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  
+
+  
+
+}
