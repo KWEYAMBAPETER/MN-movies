@@ -11,10 +11,11 @@ This table shows few movie genres of the various genres.
 | Action | These movies have intense physical fights, stunts, chases and explosions. Here the hero usually face tough circumstances.|Mission Impossible, Heist and Crime |
 | Adventure| These are exciting stories about explorations and quests often in exotic areas. Characters face challenges and discover treasures. |Pirates of the Caribbean, Indiana Jones|
 | Horror| These are designed to scare, shock, or unsettle the audience. They usually have ghosts, nortorious killers and bloodshed|The Quite place, The Conjuring|
-| Science Fiction| These stories are set in advanced technological worlds. They usually contain robotic and alien concepts|The Matrix, The Star wars |
+| Science Fiction| These stories are set in advanced technological worlds. They usually contain robotic and alien concepts|The Matrix, The Star wars and A working man by Jason|
+
 
 ## My Top 5 Movies
 These are the NM movies' best top movies. However, these also catch most people's attention due to their best presentation.
 
 ## New Releases
- Here are the newly released movies in various genres. These include the Resident, Venom and many others.These are movies in that hit and have the first vote in the movie industry.
+ Here are the newly released movies in various genres. These include the Resident, Venom, the great A working Man and many others.These are movies in that hit and have the first vote in the movie industry.
